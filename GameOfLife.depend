@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1626363653 source:c:\users\admin-pc\source\codeblocks_it206\lab2\gameoflife\main.cpp
+	<iostream>
+	"CellularAutomata.h"
+	<cstdlib>
+
+1626360982 c:\users\admin-pc\source\codeblocks_it206\lab2\gameoflife\include\cellularautomata.h
+
+1626364110 source:c:\users\admin-pc\source\codeblocks_it206\lab2\gameoflife\src\cellularautomata.cpp
+	"CellularAutomata.h"
+	<stdlib.h>
+	<Stack.h>
+	<iostream>
+
+1626356355 c:\users\admin-pc\source\codeblocks_it206\lab2\gameoflife\include\stack.h
+	"Node_LinkedList.h"
+
+1626354990 c:\users\admin-pc\source\codeblocks_it206\lab2\gameoflife\include\node_linkedlist.h
+
+1626357289 source:c:\users\admin-pc\source\codeblocks_it206\lab2\gameoflife\src\stack_m.cpp
+	"Stack.h"
+	"Node_LinkedList.h"
+	<stdio.h>
+
